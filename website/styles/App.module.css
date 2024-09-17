@@ -1,0 +1,23 @@
+/* .scrollbars ul {
+  max-height: 180px;
+  overflow: hidden;
+  overflow: auto;
+  overflow: -moz-scrollbars-none;
+  -ms-overflow-style: none;
+  cursor: pointer;
+}
+
+.scrollbars ul::-webkit-scrollbar {
+  width: 0 !important;
+  display: none;
+} */
+@keyframes color-change {
+  0% { color: white; }
+  33% { color: yellow; }
+  66% { color: orange; }
+  100% { color: white; }
+}
+
+.textChanging {
+  animation: color-change 3s infinite;
+}

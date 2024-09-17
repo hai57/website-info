@@ -1,0 +1,132 @@
+{
+  "images": [
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon1.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon2.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon3.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon4.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon5.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon6.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon7.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon8.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon9.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon10.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon11.gif"
+    },
+    {
+      "title": "icon",
+      "image": "/assets/icons/icon11.gif"
+    },
+    {
+      "title": "topic",
+      "image": "/assets/topics/topicImage1.png"
+    },
+    {
+      "title": "topic",
+      "image": "/assets/topics/topicImage2.jpg"
+    },
+    {
+      "title": "topic",
+      "image": "/assets/topics/topicImage3.jpg"
+    },
+    {
+      "title": "topic",
+      "image": "/assets/topics/topicImage4.jpg"
+    },
+    {
+      "title": "topic",
+      "image": "/assets/topics/topicImage5.jpg"
+    },
+    {
+      "title": "topic",
+      "image": "/assets/topics/topicImage6.png"
+    },
+    {
+      "title": "topic",
+      "image": "/assets/topics/topicImage7.jpg"
+    },
+    {
+      "title": "topic",
+      "image": "/assets/topics/topicImage8.jpg"
+    },
+    {
+      "title": "topic",
+      "image": "/assets/topics/topicImage9.jpg"
+    },
+    {
+      "title": "topic",
+      "image": "/assets/topics/topicImage10.jpg"
+    }
+  ]
+}
+{
+  "label": "",
+  "image": ""
+}
+
+{
+  "title": "",
+  "newsContainer": [
+    {
+      "newsId": ""
+    },
+    {
+      "newsId": ""
+    },
+    {
+      "newsId": ""
+    },
+    {
+      "newsId": ""
+    },
+    {
+      "newsId": ""
+    },
+    {
+      "newsId": ""
+    },
+    {
+      "newsId": ""
+    },
+    {
+      "newsId": ""
+    },
+    {
+      "newsId": ""
+    },
+    {
+      "newsId": ""
+    }
+  ]
+}
